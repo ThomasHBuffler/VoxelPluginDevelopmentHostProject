@@ -1,0 +1,3 @@
+[submodule "Plugins/VoxelCustom"]
+	path = Plugins/VoxelCustom
+	url = https://github.com/ThomasHBuffler/VoxelPluginCustomWork
